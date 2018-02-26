@@ -25,9 +25,9 @@ Example images transformed with this script:
 
 | Img Input | Result|
 |:-:|:-:|
-| ![](img/gecko.jpg) | ![](img/Prot_gecko.jpg) |
-| [Image link](http://picanimal.com/lizard-rainbow-colored-hd-photo-reptile/lizard-colored-rainbow-image-reptile/)| Protanopia |
-| ![](img/flow.jpg) |![](img/Deut_flow.jpg) |
-| [Image link](https://www.tapetus.pl/223859,kwiaty-bratki.php)| Deuteranopia |
-| ![](img/ara.jpg) |![](img/Trit_ara.jpg) |
-| [Image link](http://moziru.com/explore/Red-and-green%20Macaw%20clipart%20rainforest%20bird/#go_post_3740_macaw-clipart-colorful-bird-1.jpg)| Tritanomaly |
+| ![](img/ara.jpg) | ![](img/Prot_ara.jpg) |
+| [Image link](http://moziru.com/explore/Red-and-green%20Macaw%20clipart%20rainforest%20bird/#go_post_3740_macaw-clipart-colorful-bird-1.jpg)| Protanopia |
+| ![](img/gecko.jpg) |![](img/Deut_gecko.jpg) |
+| [Image link](http://picanimal.com/lizard-rainbow-colored-hd-photo-reptile/lizard-colored-rainbow-image-reptile/)| Deuteranopia |
+| ![](img/flow.jpg) |![](img/Trir_flow.jpg) |
+| [Image link](https://www.tapetus.pl/223859,kwiaty-bratki.php)| Tritanomaly |
