@@ -29,5 +29,5 @@ Example images transformed with this script:
 | [Image link](http://picanimal.com/lizard-rainbow-colored-hd-photo-reptile/lizard-colored-rainbow-image-reptile/)| Protanopia |
 | ![](img/flow.jpg) |![](img/Deut_flow.jpg) |
 | [Image link](https://www.tapetus.pl/223859,kwiaty-bratki.php)| Deuteranopia |
-| ![](img/ara.jpg) |![](img/Trir_ara.jpg) |
+| ![](img/ara.jpg) |![](img/Trit_ara.jpg) |
 | [Image link](http://moziru.com/explore/Red-and-green%20Macaw%20clipart%20rainforest%20bird/#go_post_3740_macaw-clipart-colorful-bird-1.jpg)| Tritanomaly |
